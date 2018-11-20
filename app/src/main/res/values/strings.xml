@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RedesCoss</string>
+    <string name="facebook_app_id">267906623928389</string>
+    <string name="fb_login_protocol_scheme">fb267906623928389</string>
+</resources>
